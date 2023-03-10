@@ -1,0 +1,14 @@
+body{
+    background-color: rgba(0, 0, 0, 0.849);
+}
+
+h1{
+    color: white;
+    align-items: center;
+    text-align: center;
+}
+
+input{
+    margin: 20px;
+    display: block;
+}
